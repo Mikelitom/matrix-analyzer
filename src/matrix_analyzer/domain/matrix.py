@@ -47,4 +47,4 @@ class Matrix:
 
     @property
     def data(self) -> np.ndarray:
-        return self._data.copy(uv run python -c "import numpy; print(numpy.__version__)")
+        return self._data.copy()

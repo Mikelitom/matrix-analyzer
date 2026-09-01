@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import numpy as np
 
+
 class Matrix:
     """Represents a numerical matrix with optional missing values."""
 
